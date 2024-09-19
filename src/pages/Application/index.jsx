@@ -96,7 +96,7 @@ const Application = () => {
           <img src="/public/Education.svg" alt="GambarAI" className="w-[232.3px] h=[196.2px]" />
 
           <h1 className="text-white font-Poppins text-3xl">
-            Education
+            Education gv
           </h1>
 
 
