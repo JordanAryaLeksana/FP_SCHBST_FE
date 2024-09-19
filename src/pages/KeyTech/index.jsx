@@ -3,7 +3,11 @@
 
 const KeyTech = () => {
   return (
-    <div>KeyTech</div>
+    <div>
+      <button className="w-20 h-20 bg-slate-400">
+        click me
+      </button>
+    </div>
   )
 }
 
