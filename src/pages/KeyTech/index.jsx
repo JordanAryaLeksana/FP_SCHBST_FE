@@ -22,7 +22,9 @@ const KeyTech = () => {
           </h2>
           <img src="Deep Learning_KeyTech.svg" alt="" className="w-[400px] h-[200px] ">
           </img>
-         
+         <p>
+          halo
+         </p>
         </div>
       </div>
 
