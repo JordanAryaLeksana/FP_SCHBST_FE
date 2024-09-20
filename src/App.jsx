@@ -4,8 +4,8 @@
 function App() {
   return (
     <section className="min-h-screen bg-black">
-      <div className="relative md:h-[900px] md:[640px]  w-full">
-        <div className="md:w-3/4 w-full absolute top-[20%] md:top-[30%] px-10 md:px-20 ">
+      <div className="relative md:h-[900px] md:[720px] mb-[30%] md:mb-[10%]  w-full">
+        <div className="md:w-3/4 w-full absolute top-[20%] mt-[20%] md:mt-[0%] md:top-[30%] px-10  md:px-20 ">
           <h1 className="font-Poppins font-semibold text-white lg:text-[80px] md:text-5xl text-3xl leading-[1.2em] mb-3 ">
             ARTIFICIAL INTELEGIENT
           </h1>
@@ -13,11 +13,11 @@ function App() {
             proses simulasi kecerdasan manusia oleh mesin, khususnya sistem komputer. Proses ini meliputi pembelajaran, penalaran, pemecahan masalah, persepsi, pemahaman bahasa, dan pengambilan keputusan.
           </p>
         </div>
-        <video width="300" autoPlay muted loop className="w-full h-[80%] opacity-25 object-cover  ">
+        <video width="300" autoPlay muted loop className="w-full md:h-[80%] h-full opacity-25 object-cover  ">
           <source src="/WebBST_Home.mp4" type="video/mp4" />
         </video>
       </div>
-      <div className="relative md:h-screen h-[640px]  w-full ">
+      <div className="relative md:h-screen h-[720px]  w-full ">
         <div className="pt-20 flex flex-col justify-center items-start w-full px-10 md:px-0 md:w-1/2 gap-4 mx-auto">
           <h1 className="text-white font-Poppins font-bold text-3xl">
             APA ITU AI?
@@ -29,7 +29,7 @@ function App() {
           </p>
         </div>
       </div>
-      <div className=" relative lg:h-[900px] h-full  w-full">
+      <div className=" relative lg:h-[900px] h-full w-full">
         <div className="pt-20  flex flex-col justify-center items-center">
           <h1 className="text-white font-Poppins font-bold text-3xl px-10 md:px-0 md:text-5xl mb-3">
             Bagaimana Cara Kerja AI ?
