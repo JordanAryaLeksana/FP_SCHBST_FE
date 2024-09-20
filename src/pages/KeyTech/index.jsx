@@ -54,8 +54,7 @@ const KeyTech = () => {
           </p>
         </div>
       </div>
-     
-
+    
       <div className=" relative h-screen w-full flex justify-center item-center pl-20 pr-20 mt-20">
         <div className="pt-20 flex flex-col w-1/2 pr-10 gap-5">
           <h1 className="text-white font-serif text-4xl underline ">
@@ -156,10 +155,4 @@ const KeyTech = () => {
 
       <div className=" relative h-screen w-full flex justify-center item-center pl-20 pr-20 mt-10"></div>
     </section>
-    
-  )
-}
-
-
-
 export default KeyTech
