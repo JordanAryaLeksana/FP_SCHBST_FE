@@ -1,8 +1,14 @@
 
 
+
+
+
 const Application = () => {
   return (
-    <div>Application</div>
+    <div className="">
+        jordan
+      
+    </div>
   )
 }
 
