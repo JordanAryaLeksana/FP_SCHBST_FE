@@ -7,7 +7,7 @@ function App() {
       <div className="relative md:h-[900px] md:[720px] mb-[30%] md:mb-[10%]  w-full">
         <div className="md:w-3/4 w-full absolute top-[20%] mt-[20%] md:mt-[0%] md:top-[30%] px-10  md:px-20 ">
           <h1 className="font-Poppins font-semibold text-white lg:text-[80px] md:text-5xl text-3xl leading-[1.2em] mb-3 ">
-            ARTIFICIAL INTELEGIENT
+            ARTIFICIAL INTELLEGIENT
           </h1>
           <p className="font-Poppins text-white ">
             proses simulasi kecerdasan manusia oleh mesin, khususnya sistem komputer. Proses ini meliputi pembelajaran, penalaran, pemecahan masalah, persepsi, pemahaman bahasa, dan pengambilan keputusan.
