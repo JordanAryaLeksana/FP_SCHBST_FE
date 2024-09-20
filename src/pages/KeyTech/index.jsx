@@ -1,7 +1,7 @@
 const KeyTech = () => {
   return (
     <section className="min-h-screen bg-black">
-      <div className=" py-40 relative lg:h-screen h-full w-full flex lg:flex-row flex-col justify-center item-center pl-20 pr-20">
+      <div className=" py-40 relative lg:h-screen h-full w-full flex lg:flex-row flex-col justify-center item-center lg:pl-20 lg:pr-20">
         <div className=" flex gap-5 flex-col lg:w-1/2 w-full pr-10 pl-10 lg:pl-0 mb-4 ">
           <h1 className="text-white font-serif text-4xl underline">
             Machine Learning
@@ -29,7 +29,7 @@ const KeyTech = () => {
         </div>
 
 
-        <div className=" flex flex-col gap-5 lg:w-1/2 w-full pl-10">
+        <div className=" flex flex-col gap-5 lg:w-1/2 w-full  px-10">
           <h2 className="text-white font-poppins text-4xl underline">
             Deep Learning
           </h2>
@@ -57,8 +57,8 @@ const KeyTech = () => {
 
 
 
-      <div className="pt-40 relative lg:h-screen h-full w-full flex lg:flex-row flex-col justify-center gap-10 lg:gap-0 item-center pl-20 pr-20 mt-20">
-        <div className="flex flex-col lg:w-1/2 w-full pr-10 pl-10 lg:pl-0 gap-5">
+      <div className="lg:pt-40 relative lg:h-screen h-full w-full flex lg:flex-row flex-col justify-center gap-10 lg:gap-0 item-center lg:pl-20 lg:pr-20 mt-20">
+        <div className="flex flex-col lg:w-1/2 w-full px-10 lg:pl-0 gap-5">
           <h1 className="text-white font-serif text-4xl underline ">
             Natural Language Prosessing
           </h1>
@@ -81,7 +81,7 @@ const KeyTech = () => {
           </p>
         </div>
 
-        <div className=" flex flex-col lg:w-1/2 w-full pl-10 gap-5">
+        <div className=" flex flex-col lg:w-1/2 w-full px-10 gap-5">
           <h2 className="text-white font-serif text-4xl underline">
             Computer Vision
           </h2>
@@ -106,8 +106,8 @@ const KeyTech = () => {
         </div>
       </div>
 
-      <div className=" py-40 relative h-full w-full flex lg:flex-row flex-col gap-10 lg:gap-0 justify-center item-center pl-20 pr-20 mt-10">
-        <div className="flex flex-col lg:w-1/2 w-full pr-10 pl-10 lg:pl-0 gap-5">
+      <div className=" lg:py-40 relative h-full w-full flex lg:flex-row flex-col gap-10 lg:gap-0 justify-center item-center lg:px-20 mt-10">
+        <div className="flex flex-col lg:w-1/2 w-full px-10 lg:pl-0 gap-5">
           <h1 className="text-white font-serif text-4xl underline ">
             Expert System
           </h1>
@@ -130,7 +130,7 @@ const KeyTech = () => {
           </p>
         </div>
 
-        <div className="flex flex-col lg:w-1/2 w-full pl-10 gap-5">
+        <div className="flex flex-col lg:w-1/2 w-full px-10 gap-5 pb-10">
           <h2 className="text-white font-serif text-4xl underline">
             Generative Adversarial Network
           </h2>
